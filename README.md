@@ -25,4 +25,6 @@
 - **Win Condition Detection:** Announces wins or draws.
 - **Game Reset Functionality:** Allows for restarting the game.
 - **Simple and Intuitive UI:** Provides an easy-to-use interface.
+
+  
 ![image](https://github.com/khaled71612000/XO-Using-Unity/assets/59780800/33ecf76c-9fd5-4aa7-ae7d-7cd9012afcdf)
