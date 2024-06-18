@@ -1,23 +1,27 @@
-XO Using Unity is a Unity project that implements the classic Tic-Tac-Toe game. This project offers an engaging and interactive gaming experience with a clean and intuitive user interface.
+# XO Using Unity
 
-Key Components
-GameManager.cs:
+**XO Using Unity** is a Unity project that implements the classic Tic-Tac-Toe game. This project offers an engaging and interactive gaming experience with a clean and intuitive user interface.
 
-Manages game states, including player turns.
-Checks win conditions and handles game resets.
-GridSpace.cs:
+## Key Components
 
-Handles individual grid spaces.
-Captures player input and updates grid spaces accordingly.
-Player.cs:
+### GameManager.cs
+- Manages game states, including player turns.
+- Checks win conditions and handles game resets.
 
-Manages player data, such as symbols and turn tracking.
-UIManager.cs:
+### GridSpace.cs
+- Handles individual grid spaces.
+- Captures player input and updates grid spaces accordingly.
 
-Updates UI elements, including score and messages.
-Handles user interface interactions.
-Features
-Turn-Based System: Alternates turns between players.
-Win Condition Detection: Announces wins or draws.
-Game Reset Functionality: Allows for restarting the game.
-Simple and Intuitive UI: Provides an easy-to-use interface.
+### Player.cs
+- Manages player data, such as symbols and turn tracking.
+
+### UIManager.cs
+- Updates UI elements, including score and messages.
+- Handles user interface interactions.
+
+## Features
+
+- **Turn-Based System:** Alternates turns between players.
+- **Win Condition Detection:** Announces wins or draws.
+- **Game Reset Functionality:** Allows for restarting the game.
+- **Simple and Intuitive UI:** Provides an easy-to-use interface.
